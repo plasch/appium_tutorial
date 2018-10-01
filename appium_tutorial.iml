@@ -20,5 +20,15 @@
     <orderEntry type="library" name="junit-4.12" level="project" />
     <orderEntry type="library" name="java-client-6.1.0" level="project" />
     <orderEntry type="library" name="commons-lang3-3.8" level="project" />
+    <orderEntry type="module-library">
+      <library name="testng">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/testng-7.0.0-beta1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jcommander-1.72.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

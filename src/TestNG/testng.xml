@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation test">
+    <test name="Smoke test-cases">
+    <classes>
+        <class name="TestNG.AnnotationsSuite" />
+        <class name="TestNG.Annotations" />
+    </classes>
+    </test>
+</suite>
